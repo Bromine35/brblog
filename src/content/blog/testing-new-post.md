@@ -1,6 +1,6 @@
 ---
 author: appleflyer
-pubDatetime: 2024-09-05T02:19:00Z
+pubDatetime: 2024-09-23T15:22:00Z
 title: change the title
 slug: change-of-slug
 featured: true
