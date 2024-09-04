@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: appleflyer
 pubDatetime: 2022-09-23T15:22:00Z
 title: change the title
 slug: change-of-slug
