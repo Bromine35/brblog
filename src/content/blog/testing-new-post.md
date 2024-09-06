@@ -3,7 +3,7 @@ author: appleflyer
 pubDatetime: 2024-09-04T18:30:15Z
 title: test post
 slug: test-post
-featured: true
+featured: false
 draft: false
 tags:
   - testing
